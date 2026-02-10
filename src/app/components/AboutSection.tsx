@@ -14,7 +14,7 @@ export function AboutSection() {
               Passionné par le numérique et les données, je cumule 20 ans d'expérience en développement web 
               et transformation digitale. Actuellement en transition vers l'analyse data, je combine expertise 
               technique et vision métier pour proposer des solutions data-driven. Autodidacte, je finalise 
-              un diplôme de niveau 6 en analyse data pour structurer cette passion.
+              un diplôme de niveau 6 en analyse data pour structurer cette passion
             </p>
           </div>
         </div>
